@@ -1,0 +1,15 @@
+{
+    "name": "forsage-stas/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "ForsageStas\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stas Makarov",
+            "email": "makarov.s.d@yandex.ru"
+        }
+    ],
+    "require": {}
+}
